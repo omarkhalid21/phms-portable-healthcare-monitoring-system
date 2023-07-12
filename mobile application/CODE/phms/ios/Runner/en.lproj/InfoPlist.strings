@@ -1,0 +1,7 @@
+NSCameraUsageDescription = "pls";
+PermissionGroupNotification = "pls";
+NSLocationWhenInUseUsageDescription = "pls";
+NSPhotoLibraryUsageDescription = "pls";
+NSCalendarsUsageDescription = "pls";
+NSFaceIDUsageDescription = "pls";
+NSBluetoothAlwaysUsageDescription = "to communication with robot";

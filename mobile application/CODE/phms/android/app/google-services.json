@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "369437421038",
+    "firebase_url": "https://portable-monitoring-syst-caeb8-default-rtdb.firebaseio.com",
+    "project_id": "portable-monitoring-syst-caeb8",
+    "storage_bucket": "portable-monitoring-syst-caeb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369437421038:android:85c2f8222be75400a8f2ff",
+        "android_client_info": {
+          "package_name": "com.mycompany.phms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369437421038-u9ljmp8gr67d47lr1h9s665or1vh7ei4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.phms",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "369437421038-ls7t44queikf7uui8d3qhitjmoa855ib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ65OCq3Pp6pUVZmn03ZM1M0ZUz2DEGRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369437421038-7gr00ccbn6k9vtvhhk7ob1r9m33abqv6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "369437421038-h0m7iadgpm15rarf4ui54ivgsp7st7pl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.phms"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
